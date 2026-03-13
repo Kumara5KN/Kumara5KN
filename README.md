@@ -45,5 +45,10 @@ Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gi
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
 
-</p>
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/kumara11
+* Portfolio: https://kumara2003.netlify.app
+* Email: [kn998799@gmail.com](mailto:kn998799@gmail.com)
+
 
