@@ -13,7 +13,7 @@ Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gi
 
 ## 👨‍💻 About Me
 
-* 📊 Data Analyst passionate about turning data into meaningful insights
+* 📊 Data Analyst passionate about transforming data into actionable insights
 * 🤖 Aspiring Data Scientist with strong interest in Machine Learning and AI
 * 🐍 Skilled in Python, Pandas, NumPy and Data Analysis tools
 * 📈 Interested in building data-driven solutions and predictive models
