@@ -113,24 +113,7 @@ Analyzed customer behavior and churn patterns to identify retention strategies a
 </td>
 </tr>
 
-<tr>
-<td width="50%" valign="top">
 
-### 📉 Data Science Capstone
-
-Exploratory Data Analysis and dashboard development project.
-
-#### 🚀 Technologies Used
-`Python` `Pandas` `Seaborn` `Matplotlib` `Jupyter`
-
-🔗 Repository Link  
-[Data Science Capstone](https://github.com/Kumara5KN/Data-Science-capstone-project)
-
-</td>
-
-<td width="50%" valign="top">
-</td>
-</tr>
 
 </table>
 
