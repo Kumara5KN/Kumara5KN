@@ -172,6 +172,22 @@ Customer churn prediction using predictive analytics and machine learning.
 </td>
 </tr>
 
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Property Price Forecast
+
+House price prediction and analysis using machine learning and visualization techniques.
+
+#### 🚀 Technologies Used
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+
+🔗 Repository Link  
+[Property Price Forecast](https://github.com/Kumara5KN/property-price-forecast)
+
+</td>
+</tr>
+
 </table>
 
 <h3 align="center">
