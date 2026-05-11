@@ -68,4 +68,7 @@ Aspiring Data Scientist
 
 ---
 
+## 🤖 Data Science Projects
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kumara5KN&repo=CineVerseRecommender)](https://github.com/Kumara5KN/CineVerseRecommender)
 
