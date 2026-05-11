@@ -190,5 +190,5 @@ Real-time facial emotion detection using deep learning and OpenCV.
 </table>
 
 <h3 align="center">
-⭐ Turning Data into Intelligent Solutions
+Turning Data into Intelligent Solutions
 </h3>
