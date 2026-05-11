@@ -192,8 +192,6 @@ Customer churn prediction using predictive analytics and machine learning.
 
 </table>
 
-<p align="center">
-
+<h3 align="center">
 ⭐ Turning Data into Intelligent Solutions
-
-</p>
+</h3>
