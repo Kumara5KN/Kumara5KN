@@ -127,15 +127,15 @@ Analyzed customer behavior and churn patterns to identify retention strategies a
 
 <td width="50%" valign="top">
 
-### 😊 Facial Emotion Recognition
+### 🛒 E-commerce Churn Prediction
 
-Real-time facial emotion detection using deep learning and OpenCV.
+Customer churn prediction using predictive analytics and machine learning.
 
 #### 🚀 Technologies Used
-`Python` `TensorFlow` `Keras` `OpenCV` `CNN`
+`Python` `Scikit-learn` `Pandas` `Flask` `Machine Learning`
 
 🔗 Repository Link  
-[Real-Time Facial Emotion Recognition](https://github.com/Kumara5KN/Real-Time-Facial-Emotion-Recognition)
+[Predictive Analytics E-commerce Churn](https://github.com/Kumara5KN/Predictive-Analytics-E-commerce-Churn)
 
 </td>
 
@@ -159,20 +159,6 @@ Movie recommendation system using TMDb dataset and cosine similarity.
 
 <td width="50%" valign="top">
 
-### 🛒 E-commerce Churn Prediction
-
-Customer churn prediction using predictive analytics and machine learning.
-
-#### 🚀 Technologies Used
-`Python` `Scikit-learn` `Pandas` `Flask` `Machine Learning`
-
-🔗 Repository Link  
-[Predictive Analytics E-commerce Churn](https://github.com/Kumara5KN/Predictive-Analytics-E-commerce-Churn)
-
-</td>
-
-<td width="50%" valign="top">
-
 ### 🏠 Property Price Forecast
 
 House price prediction and analysis using machine learning and visualization techniques.
@@ -182,6 +168,20 @@ House price prediction and analysis using machine learning and visualization tec
 
 🔗 Repository Link  
 [Property Price Forecast](https://github.com/Kumara5KN/property-price-forecast)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 😊 Facial Emotion Recognition
+
+Real-time facial emotion detection using deep learning and OpenCV.
+
+#### 🚀 Technologies Used
+`Python` `TensorFlow` `Keras` `OpenCV` `CNN`
+
+🔗 Repository Link  
+[Real-Time Facial Emotion Recognition](https://github.com/Kumara5KN/Real-Time-Facial-Emotion-Recognition)
 
 </td>
 
