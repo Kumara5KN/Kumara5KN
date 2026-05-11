@@ -151,9 +151,8 @@ Movie recommendation system using TMDb dataset and cosine similarity.
 [CineVerse Recommender](https://github.com/Kumara5KN/CineVerseRecommender)
 
 </td>
-</tr>
 
-<tr>
+
 <td width="50%" valign="top">
 
 ### 🛒 E-commerce Churn Prediction
