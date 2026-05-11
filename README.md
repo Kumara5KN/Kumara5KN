@@ -42,3 +42,30 @@ Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gi
 * Portfolio: https://kumara2003.vercel.app
 
 
+# Hi 👋 I'm Kumara N
+
+Aspiring Data Scientist
+
+---
+
+# 📊 Data Analysis Projects
+
+| Project | Description |
+|---------|-------------|
+| [Property Price Forecast](https://github.com/Kumara5KN/property-price-forecast) | House price prediction and analysis |
+| [Upskill Campus](https://github.com/Kumara5KN/upskillcampus) | Data analysis project |
+| [Data Science Capstone](https://github.com/Kumara5KN/Data-Science-capstone-project) | EDA and visualization project |
+
+---
+
+# 🤖 Data Science / Machine Learning Projects
+
+| Project | Description |
+|---------|-------------|
+| [Real-Time Facial Emotion Recognition](https://github.com/Kumara5KN/Real-Time-Facial-Emotion-Recognition) | Deep learning emotion detection |
+| [CineVerse Recommender](https://github.com/Kumara5KN/CineVerseRecommender) | Movie recommendation system |
+| [Predictive Analytics E-commerce Churn](https://github.com/Kumara5KN/Predictive-Analytics-E-commerce-Churn) | Customer churn prediction system |
+
+---
+
+
