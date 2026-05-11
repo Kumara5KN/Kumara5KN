@@ -87,13 +87,12 @@ Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gi
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 Property Price Forecast
+### 💳 Credit Card Analytics Dashboard
 
-House price prediction and analysis using machine learning and visualization techniques.
+Interactive dashboard for analyzing customer spending patterns, revenue trends, and transaction insights.
 
 #### 🚀 Technologies Used
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
-
+`Power BI` `SQL`  `Data Visualization`
 🔗 Repository Link  
 [Property Price Forecast](https://github.com/Kumara5KN/property-price-forecast)
 
