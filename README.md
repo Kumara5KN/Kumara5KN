@@ -204,3 +204,12 @@ Customer churn prediction using predictive analytics and machine learning.
 </a>
 
 </p>
+## 📈 GitHub Analytics
+
+<p align="center">
+  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kumara5KN&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kumara5KN&theme=tokyonight&hide_border=true"/>
+
+</p>
