@@ -68,4 +68,64 @@ Aspiring Data Scientist
 
 ---
 
- 
+ # 📊 Data Analysis Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🏠 Property Price Forecast
+
+House price prediction and analysis using machine learning and visualization techniques.
+
+#### 🚀 Technologies Used
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+
+<a href="https://github.com/Kumara5KN/property-price-forecast">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumara5KN&repo=property-price-forecast&theme=tokyonight" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📈 Upskill Campus
+
+Data analysis and visualization project with real-world datasets.
+
+#### 🚀 Technologies Used
+`Python` `Pandas` `Excel` `Power BI` `Matplotlib`
+
+<a href="https://github.com/Kumara5KN/upskillcampus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumara5KN&repo=upskillcampus&theme=tokyonight" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📉 Data Science Capstone
+
+Exploratory Data Analysis and dashboard creation project.
+
+#### 🚀 Technologies Used
+`Python` `Pandas` `Seaborn` `Matplotlib` `Jupyter`
+
+<a href="https://github.com/Kumara5KN/Data-Science-capstone-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumara5KN&repo=Data-Science-capstone-project&theme=tokyonight" />
+</a>
+
+</td>
+
+<td width="50%">
+
+</td>
+
+</tr>
+
+</table>
