@@ -91,8 +91,9 @@ Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gi
 
 Interactive dashboard for analyzing customer spending patterns, revenue trends, and transaction insights.
 
-#### 🚀 Technologies Used
+####  Technologies Used:
 `Power BI` `SQL`  `Data Visualization`
+
 🔗 Repository Link  
 [Property Price Forecast](https://github.com/Kumara5KN/property-price-forecast)
 
@@ -100,16 +101,15 @@ Interactive dashboard for analyzing customer spending patterns, revenue trends, 
 
 <td width="50%" valign="top">
 
-### 📈 Upskill Campus
+### 📉👥 Customer Retention & Churn Analysis
 
-Data analysis and visualization project using real-world datasets.
+Analyzed customer behavior and churn patterns to identify retention strategies and improve business decision-making.
 
-#### 🚀 Technologies Used
-`Python` `Pandas` `Excel` `Power BI` `Matplotlib`
+####  Technologies Used
+`Python` `Excel` `Pandas` `numpy ` 
 
 🔗 Repository Link  
-[Upskill Campus](https://github.com/Kumara5KN/upskillcampus)
-
+[Customer Retention & Churn Analysis](YOUR_REPO_LINK)
 </td>
 </tr>
 
