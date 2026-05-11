@@ -129,3 +129,119 @@ Exploratory Data Analysis and dashboard creation project.
 </tr>
 
 </table>
+
+# 📂 Project Portfolio
+
+---
+
+# 📊 Data Analysis Projects
+
+<table>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Property Price Forecast
+
+House price prediction and analysis using machine learning and visualization techniques.
+
+#### 🚀 Technologies Used
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+
+🔗 Repository Link  
+[Property Price Forecast](https://github.com/Kumara5KN/property-price-forecast)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 Upskill Campus
+
+Data analysis and visualization project using real-world datasets.
+
+#### 🚀 Technologies Used
+`Python` `Pandas` `Excel` `Power BI` `Matplotlib`
+
+🔗 Repository Link  
+[Upskill Campus](https://github.com/Kumara5KN/upskillcampus)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📉 Data Science Capstone
+
+Exploratory Data Analysis and dashboard development project.
+
+#### 🚀 Technologies Used
+`Python` `Pandas` `Seaborn` `Matplotlib` `Jupyter`
+
+🔗 Repository Link  
+[Data Science Capstone](https://github.com/Kumara5KN/Data-Science-capstone-project)
+
+</td>
+
+<td width="50%" valign="top">
+</td>
+</tr>
+
+</table>
+
+---
+
+# 🤖 Data Science & Machine Learning Projects
+
+<table>
+
+<tr>
+<td width="50%" valign="top">
+
+### 😊 Facial Emotion Recognition
+
+Real-time facial emotion detection using deep learning and OpenCV.
+
+#### 🚀 Technologies Used
+`Python` `TensorFlow` `Keras` `OpenCV` `CNN`
+
+🔗 Repository Link  
+[Real-Time Facial Emotion Recognition](https://github.com/Kumara5KN/Real-Time-Facial-Emotion-Recognition)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎬 CineVerse Recommender
+
+Movie recommendation system using TMDb dataset and cosine similarity.
+
+#### 🚀 Technologies Used
+`Python` `Streamlit` `Pandas` `Scikit-learn` `TMDb API`
+
+🔗 Repository Link  
+[CineVerse Recommender](https://github.com/Kumara5KN/CineVerseRecommender)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce Churn Prediction
+
+Customer churn prediction using predictive analytics and machine learning.
+
+#### 🚀 Technologies Used
+`Python` `Scikit-learn` `Pandas` `Flask` `Machine Learning`
+
+🔗 Repository Link  
+[Predictive Analytics E-commerce Churn](https://github.com/Kumara5KN/Predictive-Analytics-E-commerce-Churn)
+
+</td>
+
+<td width="50%" valign="top">
+</td>
+</tr>
+
+</table>
