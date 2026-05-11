@@ -124,6 +124,7 @@ Analyzed customer behavior and churn patterns to identify retention strategies a
 <table>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 😊 Facial Emotion Recognition
@@ -152,6 +153,9 @@ Movie recommendation system using TMDb dataset and cosine similarity.
 
 </td>
 
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -168,11 +172,6 @@ Customer churn prediction using predictive analytics and machine learning.
 </td>
 
 <td width="50%" valign="top">
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
 
 ### 🏠 Property Price Forecast
 
@@ -185,6 +184,7 @@ House price prediction and analysis using machine learning and visualization tec
 [Property Price Forecast](https://github.com/Kumara5KN/property-price-forecast)
 
 </td>
+
 </tr>
 
 </table>
