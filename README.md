@@ -56,6 +56,16 @@ Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gi
 
 </p>
 
+## 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kumara5KN&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kumara5KN&theme=tokyonight"/>
+
+</p>
+
 # 📂 Project Portfolio
 
 ---
