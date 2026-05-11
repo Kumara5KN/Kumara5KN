@@ -131,7 +131,7 @@ Analyzed customer behavior and churn patterns to identify retention strategies a
 
 Customer churn prediction using predictive analytics and machine learning.
 
-#### 🚀 Technologies Used
+#### Technologies Used:
 `Python` `Scikit-learn` `Pandas` `Flask` `Machine Learning`
 
 🔗 Repository Link  
@@ -145,7 +145,7 @@ Customer churn prediction using predictive analytics and machine learning.
 
 Movie recommendation system using TMDb dataset and cosine similarity.
 
-#### 🚀 Technologies Used
+####  Technologies Used:
 `Python` `Streamlit` `Pandas` `Scikit-learn` `TMDb API`
 
 🔗 Repository Link  
@@ -163,7 +163,7 @@ Movie recommendation system using TMDb dataset and cosine similarity.
 
 House price prediction and analysis using machine learning and visualization techniques.
 
-#### 🚀 Technologies Used
+####  Technologies Used:
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
 
 🔗 Repository Link  
@@ -177,7 +177,7 @@ House price prediction and analysis using machine learning and visualization tec
 
 Real-time facial emotion detection using deep learning and OpenCV.
 
-#### 🚀 Technologies Used
+#### Technologies Used:
 `Python` `TensorFlow` `Keras` `OpenCV` `CNN`
 
 🔗 Repository Link  
