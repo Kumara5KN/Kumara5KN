@@ -37,13 +37,7 @@ Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gi
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
 
-## 📫 Portfolio
 
-* Portfolio: https://kumara2003.vercel.app
-
-# 📂 Project Portfolio
-
----
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -61,6 +55,10 @@ Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gi
 </a>
 
 </p>
+
+# 📂 Project Portfolio
+
+---
 
 # 📊 Data Analysis Projects
 
