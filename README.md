@@ -57,23 +57,7 @@ Aspiring Data Scientist
 | [Data Science Capstone](https://github.com/Kumara5KN/Data-Science-capstone-project) | EDA and visualization project |
 
 ---
-## 📊 Data Analysis Projects
 
-<p align="center">
-
-<a href="https://github.com/Kumara5KN/property-price-forecast">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumara5KN&repo=property-price-forecast&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Kumara5KN/Data-Science-capstone-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumara5KN&repo=Data-Science-capstone-project&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Kumara5KN/upskillcampus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumara5KN&repo=upskillcampus&theme=tokyonight" />
-</a>
-
-</p>
 # 🤖 Data Science / Machine Learning Projects
 
 | Project | Description |
