@@ -67,40 +67,5 @@ Aspiring Data Scientist
 | [Predictive Analytics E-commerce Churn](https://github.com/Kumara5KN/Predictive-Analytics-E-commerce-Churn) | Customer churn prediction system |
 
 ---
-# 📊 Data Analysis Projects
 
-<p align="center">
-  <a href="https://github.com/Kumara5KN/property-price-forecast">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumara5KN&repo=property-price-forecast&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/Kumara5KN/Data-Science-capstone-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumara5KN&repo=Data-Science-capstone-project&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Kumara5KN/upskillcampus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumara5KN&repo=upskillcampus&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-# 🤖 Data Science & ML Projects
-
-<p align="center">
-  <a href="https://github.com/Kumara5KN/Real-Time-Facial-Emotion-Recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumara5KN&repo=Real-Time-Facial-Emotion-Recognition&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/Kumara5KN/CineVerseRecommender">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumara5KN&repo=CineVerseRecommender&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Kumara5KN/Predictive-Analytics-E-commerce-Churn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumara5KN&repo=Predictive-Analytics-E-commerce-Churn&theme=tokyonight" />
-  </a>
-</p>
+ 
