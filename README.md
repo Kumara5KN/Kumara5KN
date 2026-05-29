@@ -95,7 +95,7 @@ Interactive dashboard for analyzing customer spending patterns, revenue trends, 
 `Power BI` `SQL`  `Data Visualization`
 
 🔗 Repository Link  
-[Property Price Forecast](https://github.com/Kumara5KN/Credit_Card_Financial_Dashboard)
+[Credit Card Analytics](https://github.com/Kumara5KN/Credit_Card_Financial_Dashboard)
 
 </td>
 
