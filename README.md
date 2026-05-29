@@ -95,7 +95,7 @@ Interactive dashboard for analyzing customer spending patterns, revenue trends, 
 `Power BI` `SQL`  `Data Visualization`
 
 🔗 Repository Link  
-[Property Price Forecast](https://github.com/Kumara5KN/property-price-forecast)
+[Property Price Forecast](https://github.com/Kumara5KN/Credit_Card_Financial_Dashboard)
 
 </td>
 
@@ -109,7 +109,7 @@ Analyzed customer behavior and churn patterns to identify retention strategies a
 `Python` `Excel` `Pandas` `numpy ` 
 
 🔗 Repository Link  
-[Customer Retention & Churn Analysis](YOUR_REPO_LINK)
+[Customer Retention & Churn Analysis](https://github.com/Kumara5KN/Predictive-Analytics-E-commerce-Churn)
 </td>
 </tr>
 
