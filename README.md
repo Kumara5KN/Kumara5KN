@@ -80,44 +80,7 @@ Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gi
 
 ---
 
-# 📊 Data Analysis Projects
 
-<table>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💳 Credit Card Analytics Dashboard
-
-Interactive dashboard for analyzing customer spending patterns, revenue trends, and transaction insights.
-
-####  Technologies Used:
-`Power BI` `SQL`  `Data Visualization`
-
-🔗 Repository Link  
-[Credit Card Analytics](https://github.com/Kumara5KN/Credit_Card_Financial_Dashboard)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📉👥 Customer Retention & Churn Analysis
-
-Analyzed customer behavior and churn patterns to identify retention strategies and improve business decision-making.
-
-####  Technologies Used
-`Python` `Excel` `Pandas` `numpy ` 
-
-🔗 Repository Link  
-[Customer Retention & Churn Analysis](https://github.com/Kumara5KN/Predictive-Analytics-E-commerce-Churn)
-</td>
-</tr>
-
-
-
-</table>
-
----
 
 # 🤖 Data Science & Machine Learning Projects
 
@@ -188,6 +151,46 @@ Real-time facial emotion detection using deep learning and OpenCV.
 </tr>
 
 </table>
+
+---
+# 📊 Data Analysis Projects
+
+<table>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Credit Card Analytics Dashboard
+
+Interactive dashboard for analyzing customer spending patterns, revenue trends, and transaction insights.
+
+####  Technologies Used:
+`Power BI` `SQL`  `Data Visualization`
+
+🔗 Repository Link  
+[Credit Card Analytics](https://github.com/Kumara5KN/Credit_Card_Financial_Dashboard)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📉👥 Customer Retention & Churn Analysis
+
+Analyzed customer behavior and churn patterns to identify retention strategies and improve business decision-making.
+
+####  Technologies Used
+`Python` `Excel` `Pandas` `numpy ` 
+
+🔗 Repository Link  
+[Customer Retention & Churn Analysis](https://github.com/Kumara5KN/Predictive-Analytics-E-commerce-Churn)
+</td>
+</tr>
+
+
+
+</table>
+
+
 
 <h3 align="center">
 Turning Data into Intelligent Solutions
